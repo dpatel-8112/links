@@ -23,7 +23,10 @@ const Phone = (props: Props) => {
         <div className="Greeting">નમસ્તે</div>
       </div>
       <div className="Links_Container">
-        <Link link="https://amazingdotdp.me/" displayName="Portfolio" />
+        <Link
+          link="https://amazingdotdp.me/portfolio"
+          displayName="Portfolio"
+        />
         <Link
           link="https://drive.google.com/file/d/1toGeO7d-QVnp44_C9i49AyjGkEIZi7d_/view?usp=sharing"
           displayName="Resume"
