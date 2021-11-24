@@ -40,7 +40,7 @@ const Phone = (props: Props) => {
         />
         <Social link="https://github.com/dpatel-8112" icon={AiOutlineGithub} />
         <Social
-          link="https://www.instagram.com/dpatel_8112/"
+          link="https://www.instagram.com/devarshi_patel_/"
           icon={AiOutlineInstagram}
         />
       </div>
