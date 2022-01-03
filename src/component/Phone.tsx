@@ -24,7 +24,7 @@ const Phone = (props: Props) => {
       </div>
       <div className="Links_Container">
         <Link
-          link="https://amazingdotdp.me/portfolio"
+          link="http://devarshipatel.tech/portfolio"
           displayName="Portfolio"
         />
         <Link
