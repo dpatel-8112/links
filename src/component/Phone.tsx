@@ -1,6 +1,7 @@
 import React from "react";
 import "../style/Phone.css";
-import profile from "../images/profile.jfif";
+// import profile from "../images/profile.jfif";
+import profile from "../images/profile-2.jpg";
 import Link from "./Link";
 import Social from "./Social";
 import {
